@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 알매 아카이브  # the main title
+title: 알매창고  # the main title
 
 tagline: To Be a Server Engineer # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://alme.github.io"
 
 github:
-  username: AlroeMesil # change to your github username
+  username: Aloemaesil # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: 알매 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/AlroeMesil # change to your github homepage
+    - https://github.com/Aloemaesil # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
