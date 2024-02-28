@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240114/star-topology.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240114/star-topology.png" alt="Star Topology" width="50%" height="50%">
 
 ## 네트워크(Network)
 <hr>
