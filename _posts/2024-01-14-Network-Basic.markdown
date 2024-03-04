@@ -11,6 +11,8 @@ mermaid: true
 
 <img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240114/test.png">
 
+![이미지](https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240114/test.png)
+
 ## 네트워크(Network)
 <hr>
 통신 가능한 장비(노드)들이 데이터를 주고받을 수 있게 연결한 통신망  
