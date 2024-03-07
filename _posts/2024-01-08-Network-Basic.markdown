@@ -3,7 +3,7 @@ title: Network 기초
 author: Alme
 date: 2024-01-08 11:33:00 +0800
 categories: [네트워크, 개념]
-tags: [네트워크, 개념]
+tags: [네트워크]
 pin:  true
 math: true
 mermaid: true
@@ -49,7 +49,7 @@ mermaid: true
 
 ### <b>토폴로지 종류</b>  
 <b>1. 버스형</b>  
-<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240108/Bus Topology.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/main/_posts/images/20240108/Bus Topology.png" width="500" height="500">
   - 하나의 긴 케이블이 네트워크상의 모든 장치를 연결하는 중추 네트워크의 역할을 하는 형태  
 
     > <b>장점</b>  
@@ -70,7 +70,7 @@ mermaid: true
 <br>
 
 <b>2. 링형</b>  
-<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240108/Ring Topology.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/main/_posts/images/20240108/Ring Topology.png" width="500" height="500">
   - 닫​힌 루프 형태로 각 호스트가 자신의 양쪽 호스트와 전용으로 점 대 점으로 연결된 형태  
 
     > <b>장점</b>
@@ -87,7 +87,7 @@ mermaid: true
 <br>
 
 <b>3. 스타형</b>  
-<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/91a20d3c0664f3fceb9ba24cce20504cc3b761de/_posts/images/20240108/Star Topology.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/main/_posts/images/20240108/Star Topology.png" width="500" height="500">
   - 중앙집중식 구조를 가짐 ( = 중앙에 위치한 주 노드(허브, 스위치 등)에 연결된 케이블로 다른 노드(컴퓨터)들을 연결 )    
 
     > <b>장점</b>

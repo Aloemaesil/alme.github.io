@@ -1,0 +1,26 @@
+---
+title: IPv4와 IPv6에 대해
+author: Alme
+date: 2024-01-11 12:33:00 +0800
+categories: [네트워크, 개념]
+tags: [네트워크, IPv4, IPv6, IP주소]
+pin:  true
+math: true
+mermaid: true
+---
+## <b>IP Address
+<hr>
+- IP 통신에 필요한 고유 주소를 말하며, 통신 기능이 제공되는 기기들이 서로 통신을 하기 위해 필요한 고유 번호이며,  
+  IP 주소의 표준 체계는 <b>IPv4</b>와 <b>IPv6</b>가 존재한다.   
+
+  ### <b> IP 주소 체계의 종류 </b>
+  <b>1. IPv4 </b>  
+    - IPv4   
+
+  <br>
+
+  <b>2. IPv6 </b>  
+    - IPv6  
+
+
+
