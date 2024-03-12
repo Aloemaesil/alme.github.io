@@ -8,15 +8,36 @@ pin:  true
 math: true
 mermaid: true
 ---
-## <b>서브넷팅(Subnetting)  
+## <b>OSI 7 레이어 & TCP/IP(Protocol) 4 Layer
 <hr>
-- 네트워크의 브로드캐스트 도메인을 효율적으로 나누는 기법  
 
-  > <b>Q. 서브넷팅을 하는 이유?</b>
-  > - 서브넷팅을 하지 않고 네트워크를 할당하면 낭비되고 사용되지 않는 IP주소가 많이 생기기 때문이다.  
-  > (ex. IP주소가 100개 필요한 곳에 200.200.200.X/24 대역대를 할당하면 153개의 IP주소가 낭비된다.)  
+<table border="OSI 7 레이어 & TCP/IP(Protocol) 4 Layer">
+	<th> </th>
+	<th>OSI 7 계층</th>
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 두번째 줄 끝 -->
+</table>  
 
-  ### <b> 서브넷팅 실습 </b>
+
+|              |      OSI 7 계층     |     TCP/IP 4 계층   |
+|:------------:|:------------------:|:------------------:|
+| <b>7 계층</b> | Application Layer  |                    |
+| <b>6 계층</b> | Presentation Layer | Application Layer  |
+| <b>5 계층</b> | Session Layer      |                    |
+| <b>4 계층</b> | Transport Layer    |  Transport Layer   |
+| <b>3 계층</b> | Network Layer      |  Internet Layer    |
+| <b>2 계층</b> | Data-Link Layer    |  Network Access Layer | 
+| <b>1 계층</b> | Physical Layer     |       Layer        |    
+  
+<br>  
+  
+  ### <b> 서브넷팅 실습 </b>  
   <b>1. 토폴로지 구성 & IP와 서브넷 마스크 할당</b>  
     <center>
       <img src="https://raw.githubusercontent.com/Aloemaesil/aloemaesil.github.io/main/_posts/images/20240109/192.168.0.X%3A24.png">
